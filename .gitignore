@@ -1,2 +1,6 @@
-Projeto AutomacaoIndicadores
+# Ignorando arquivos:
+
+Projeto AutomacaoIndicadores/
+venv/   
+
 
